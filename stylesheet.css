@@ -1299,7 +1299,7 @@ audio {
         color: #fff;
         background-color: #466baf;
     }
-    @media only screen and (max-width: 720px){
+    @media only screen and (max-width: 250px){
     	.container {
     		-webkit-transform: scale(0.9);
     	}
