@@ -1080,15 +1080,15 @@ audio {
 	bottom: -200px;
 	opacity: 0.6;
 	z-index: 99;
-	width: 50%;
-	height: 100%;
+	width: 30%;
+	height: 50%;
 	background-repeat: no-repeat no-repeat;
-	background-size: 50% 100%;
+	background-size: 30% 50%;
 }
 .balloons h2 {
 	text-transform: uppercase;
 	font-family: 'Signika', sans-serif;
-	font-size: 50px;
+	font-size: 40px;
 	color: #BF4136;
 	text-shadow: 5px 5px 5px #FFF;
 	display: none;
@@ -1251,7 +1251,7 @@ audio {
 
 .balloon-border{
 	position: fixed;
-	top:100%;
+	top:50%;
 	opacity: 0.5;
 	z-index: 9999;
 }
@@ -1265,7 +1265,7 @@ audio {
 }
 
 .cake-cover {
-	margin-top: 50px;
+	margin-top: 50%;
 }
 .message {
 	margin-top: 200px;
